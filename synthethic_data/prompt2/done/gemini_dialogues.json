@@ -1,0 +1,312 @@
+[
+  {
+    "persona": "Aisha",
+    "scenario": "Joining DU art society and preparing for her first North Campus exhibition.",
+    "dialogue": [
+      {
+        "speaker": "Aisha",
+        "text": "Yaar, finally DU art society mein select ho gayi! So excited for the North Campus exhibition."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Wah, Aisha! That's amazing news! Exhibition kab hai and what are you planning to showcase?"
+      },
+      {
+        "speaker": "Aisha",
+        "text": "It's next month. I'm thinking of doing a series on Delhi's street life, maybe some watercolors. Kya lagta hai?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Sounds fantastic! Street life watercolors will definitely resonate with everyone. Need any help with supplies or anything?"
+      },
+      {
+        "speaker": "Aisha",
+        "text": "Thanks! Actually, I'm a bit short on good quality paper. Koi achha store pata hai kya around Kamla Nagar?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Haan, there's 'Art Central' near Spark Mall. Thoda expensive hai, but the quality is top-notch. All the best, Aisha!"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Rohit",
+    "scenario": "Troubleshooting CI-pipeline build error on Ubuntu server.",
+    "dialogue": [
+      {
+        "speaker": "Rohit",
+        "text": "Arre yaar, yeh CI pipeline phir se fail ho gaya! Ubuntu server pe build error aa raha hai."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Oh no! Error message kya hai? Maybe I can help. Mumbai data centre wala server hai na?"
+      },
+      {
+        "speaker": "Rohit",
+        "text": "Haan, Mumbai wala hi. Error hai 'package dependencies unmet'. I think kuch apt update/upgrade ka issue hai."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Try adding 'sudo apt-get update && sudo apt-get upgrade -y' before the build step in your CI config. Dekho chalta hai kya."
+      },
+      {
+        "speaker": "Rohit",
+        "text": "Okay, adding that now. Fingers crossed! Yeh open-source project mein itna tension hai, bhai."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Tell me about it! But hey, at least you're contributing. Let me know if that fixes it, warna we'll dig deeper."
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Sneha",
+    "scenario": "Explains beginner Ashtanga yoga routine in Chennai.",
+    "dialogue": [
+      {
+        "speaker": "Sneha",
+        "text": "Namaste! Aaj hum Ashtanga ka basic routine karenge. First, pranayama, okay? Deep breaths in and out."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Okay, Sneha. Pranayama mein kya karna hai exactly?"
+      },
+      {
+        "speaker": "Sneha",
+        "text": "Ujjayi breathing! Inhale slowly, feel your chest expand. Exhale completely, contracting your abdomen. Try five rounds."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Got it. Ujjayi breathing... then what?"
+      },
+      {
+        "speaker": "Sneha",
+        "text": "Next, Surya Namaskar A. Five rounds. Remember to synchronize your breath with each movement. Inhale up, exhale down."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Surya Namaskar A... theek hai. I'll try my best to keep up!"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Deepak",
+    "scenario": "Seeking authentic vada pav near IIT Bombay.",
+    "dialogue": [
+      {
+        "speaker": "Deepak",
+        "text": "Excuse me, bhaiya! IIT Bombay ke aas-paas sabse accha vada pav kahan milega? I'm craving some real Mumbai street food."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Arre, IIT ke bahar toh bohot stalls hain. But for authentic taste, try Ashok Vada Pav near Kirti College. Thoda door hai, but worth it!"
+      },
+      {
+        "speaker": "Deepak",
+        "text": "Kirti College? Okay, got it. Is it easy to reach by auto or something? Aur koi option hai jo thoda nazdeek ho?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Auto mil jayega easily. Nazdeek mein, there's a stall near Powai Lake, but Ashok's is legendary. Trust me, ek baar try kar lo."
+      },
+      {
+        "speaker": "Deepak",
+        "text": "Powai Lake wala bhi theek hai? Just in case I'm feeling lazy. What makes Ashok's so special anyway?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Powai wala is okay, chal jayega. But Ashok's pav is softer, chutney is spicier, and the vada is just...perfect. Ekdum Mumbai ka taste!"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Priya",
+    "scenario": "Negotiating saree wholesale rates in Panipat.",
+    "dialogue": [
+      {
+        "speaker": "Priya",
+        "text": "Namaste! Yeh jo Banarasi sarees hain, wholesale mein kya rate lagega? I want to stock them in my Delhi boutique."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Namaste! Madamji, Banarasi toh premium hai. For bulk, ₹3500 per saree padega. Kitni chahiye aapko?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Thoda zyada lag raha hai. I was hoping for around ₹3000. I'm planning to take at least 20 pieces initially."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Madam, 20 pieces mein toh mushkil hai. But since aap Delhi se hain, chalo ₹3300 final. Isse kam nahi ho payega."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Okay, ₹3300 is fine. But can you include some variety in designs and colors? I need a good mix for my customers."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Bilkul! Variety toh humara specialty hai. Aap tension mat lijiye. I'll make sure you get the best collection. Deal pakki?"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Arjun",
+    "scenario": "Debates Dhokra RPG strategies amidst Voice of India server lag.",
+    "dialogue": [
+      {
+        "speaker": "Arjun",
+        "text": "Yaar, this Voice of India lag is killing me! How are we supposed to coordinate the Dhokra raid?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "I know, right? Maybe we should try a different server? Or just focus on buffing our characters first?"
+      },
+      {
+        "speaker": "Arjun",
+        "text": "Buffing is good, but we need a solid strategy for the Gada boss. I was thinking, I'll tank, you heal, and Rohan DPS?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Hmm, Rohan's DPS is kinda low. Maybe he should focus on crowd control instead? And I can off-heal if needed."
+      },
+      {
+        "speaker": "Arjun",
+        "text": "Okay, crowd control it is! But seriously, this lag is making it impossible to time our abilities. Koi jugaad karna padega."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "True that! Let's try restarting our routers? Maybe that'll help a little. Otherwise, pray to the ping gods!"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Sunita",
+    "scenario": "Planning a family trek to Lohagad Fort near Pune.",
+    "dialogue": [
+      {
+        "speaker": "Sunita",
+        "text": "Okay, toh Lohagad trek ka plan final? Weekend pe chalenge. Train tickets book karoon Pune tak?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Haan, haan, final! Tickets book kar lo. Aur wahan se Lohagad kaise jayenge? Local transport milega?"
+      },
+      {
+        "speaker": "Sunita",
+        "text": "Haan, local buses aur jeeps milte hain Lonavala se. But I was thinking, ek local guide bhi hire kar lein? History bhi pata chalegi."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Guide ka kya rate hoga? Budget bhi dekhna hai. Aur kitne time ka trek hai?"
+      },
+      {
+        "speaker": "Sunita",
+        "text": "Maine suna hai around ₹1000-₹1500 mein guide mil jaata hai. Trek toh 2-3 ghante ka hai, easy climb hai family ke liye."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Perfect! Toh guide book kar lo aur main snacks pack karta hoon. Lohagad, here we come!"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Vikram",
+    "scenario": "Brainstorms a Ganesh Chaturthi social media campaign for a Mumbai events startup.",
+    "dialogue": [
+      {
+        "speaker": "Vikram",
+        "text": "Okay team, Ganesh Chaturthi aa rahi hai! Social media pe kya dhamaka karein?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Sir, last year toh 'Eco-friendly Ganpati' theme chala tha, this year kuch naya?"
+      },
+      {
+        "speaker": "Vikram",
+        "text": "Haan, eco-friendly is good, but let's add a Mumbai twist. Maybe 'Mumbai's Biggest Ganpati Mandal Hop'?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Interesting! We can create a map and encourage people to share their experiences using a hashtag?"
+      },
+      {
+        "speaker": "Vikram",
+        "text": "Exactly! Aur contests rakhte hain, best Ganpati decoration, best bhajan performance... hashtag use karne pe."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Perfect! I'll draft a proposal with the hashtag and contest rules. Let's aim for maximum engagement, sir!"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Ananya",
+    "scenario": "Reviews TB case presentation for AIIMS grand rounds.",
+    "dialogue": [
+      {
+        "speaker": "Ananya",
+        "text": "Okay, so first slide mein patient ki demographics and chief complaints, right? Koi bhool toh nahi rahi main?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Haan, demographics, age, gender, occupation. Aur presenting complaints toh definitely. Don't forget duration bhi."
+      },
+      {
+        "speaker": "Ananya",
+        "text": "Right, duration bhi. Then history of present illness, pura chronological order mein? Ya kuch skip kar sakte hain?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Chronological is best, makes it easier to follow. But focus on relevant details, ya. No need to overcomplicate things."
+      },
+      {
+        "speaker": "Ananya",
+        "text": "Cool. Next, examination findings. Should I include everything, even if it's normal, or just the abnormal ones?"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Just the significant findings, Ananya. And remember to correlate them with your history. Good luck!"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  },
+  {
+    "persona": "Rahul",
+    "scenario": "Practices beginner Hindi-English code-switching phrases with his students at a Bangalore tuition centre.",
+    "dialogue": [
+      {
+        "speaker": "Rahul",
+        "text": "Okay class, aaj hum karenge code-switching. Like, 'I'm going to the *bazaar*, do you want anything?'"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Sir, *bazaar* matlab kya hai?"
+      },
+      {
+        "speaker": "Rahul",
+        "text": "Good question! *Bazaar* means market. So, 'I'm going to the *bazaar*, *kuch chahiye*?' See? Mixing Hindi and English."
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Acha! So, like, 'I'm feeling *bhukha*, let's get some food?'"
+      },
+      {
+        "speaker": "Rahul",
+        "text": "Exactly! 'I'm feeling *bhukha*'. *Bhukha* is hungry. Or, 'This is *bahut acha*, I like it a lot!'"
+      },
+      {
+        "speaker": "Interlocutor",
+        "text": "Okay sir, I think I understand. *Kal* we will practice more, right? *Kal* matlab tomorrow?"
+      }
+    ],
+    "image_text": "\nmax_vocab_id = list(vocab.keys())[-1]\ntokenizer.special_tokens = {\n    max_vocab_id+1: \"<startoftext>\",\n    max_vocab_id+2: \"<separator>\",\n    max_vocab_id+3: \"<endoftext>\",\n    max_vocab_id+4: \"<unk>\",\n}\n"
+  }
+]
