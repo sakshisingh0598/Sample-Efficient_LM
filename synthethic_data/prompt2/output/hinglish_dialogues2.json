@@ -1,0 +1,366 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "Arey yaar, yaad hai woh college ka freshers' party? I was so nervous, I tripped on the stage while trying to introduce myself. Pure chaos! Everyone thought it was part of the act, imagine!"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan! I remember that! Maine toh video bhi banaya tha, but luckily for you, it got lost in the digital abyss. Waise, remember Professor's wig flying off during the physics lecture? That was epic!"
+    },
+    {
+      "role": "user",
+      "content": "Oh god, don't remind me! I almost choked on my samosa from laughing so hard. And then, remember when we accidentally dyed his hair green with Holi colours? He looked like a broccoli!"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre! He was fuming! But the best part was trying to explain it to his parents. Unhone toh mandir mein jaake pooja karwai thi, thinking it was some bad omen. Too funny! Good old university days."
+    },
+    {
+      "role": "user",
+      "content": "Seriously! And what about that time we tried to cook biryani in the hostel room and nearly set off the fire alarm? The warden was so angry, but the biryani was surprisingly decent. A true masterpiece!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hahaha, that biryani! It tasted like smoke and regret, but we ate it anyway. College life was something else, na? So much fun, so much drama, and so many ridiculous memories. Good times, yaar, good times!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Hey, Diwali ki tayari kaisi chal rahi hai? This year, I'm totally clueless about the rangoli design. Koi idea hai tere paas? Last year wala toh repeat nahi karna."
+    },
+    {
+      "role": "assistant",
+      "content": "Arre bhai, tension na le! Rangoli ka toh main expert hoon. This time, I'm planning a huge floral rangoli with diyas all around. Thinking of using marigolds and roses. Lighting bhi coordinated rahegi, warm tones only!"
+    },
+    {
+      "role": "user",
+      "content": "Wah wah! Floral rangoli sounds amazing! Aur diyas warm tones mein? Perfect Diwali vibes. But arranging it all... that sounds like a lot of work. Can I help with something? Bata na."
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, actually! I need someone to help me get the diyas. Can you go to Matunga market? They have the best variety. Aur haan, thode floating candles bhi le aana for the water diya setup near the entrance."
+    },
+    {
+      "role": "user",
+      "content": "Matunga market? Done! Floating candles bhi pakka. Anything else, boss? Like, mithai ka kya scene hai? Kaju katli ya kuch aur order karna hai? Bata de, main sab kar doonga."
+    },
+    {
+      "role": "assistant",
+      "content": "Kaju katli is classic! But this time, let's try something different. How about motichoor ladoos? And yeah, thanks a ton for the help. Diwali is always a bit stressful, but with friends like you, it's all good!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye, so I'm planning this coffee-and-book date with her. Thinking of 'The Book Nook' near Carter Road. Cozy vibes, right? Aur batao, any better suggestions? Need to impress her with my 'intellectual' side, you know?"
+    },
+    {
+      "role": "assistant",
+      "content": "Carter Road is solid! The Book Nook is perfect—quiet, good coffee. But maybe also check out 'Title Waves' in Bandra? Little more spacious, better selection, might find something to discuss besides the weather. Good luck, chef!"
+    },
+    {
+      "role": "user",
+      "content": "Hmm, 'Title Waves', you say? Sounds fancy! But 'The Book Nook' has that intimate feel, you know? Like we're the only two people in the world...okay, maybe a slight exaggeration. But still! What kind of book should I pretend to be reading?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre, don't 'pretend'! Pick something you're genuinely interested in! But if you *must* impress, go for some Murakami or maybe a collection of Indian poetry. Show her you're deep, but not *too* deep. Keep it light, bhai!"
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay, point taken. No fake intellectualism. Maybe I'll just grab a Chetan Bhagat novel and be honest about my tastes. What to wear though? Should I go full-on 'artiste' with a beret and scarf, or just keep it casual with jeans and a tee?"
+    },
+    {
+      "role": "assistant",
+      "content": "Jeans and a tee, 100%! No beret, please! You're going for coffee, not auditioning for a French film. Just be yourself. And remember, the best accessory is a genuine smile. Now go get 'em, tiger! And tell me how it goes!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye guys, dekho toh yeh meme! 'When you realise Monday is just 12 hours away from Sunday.' Kitna relatable hai na?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hahaha! True that! Just saw it. Feeling the Sunday blues already! Shaadi ka kaam khatam toh hua nahi, Monday ka pressure alag."
+    },
+    {
+      "role": "user",
+      "content": "Exactly! Shaadi mein itna energy lag gaya, abhi toh office ke deadlines bhi hai. Ek aur meme bhejta hu - 'My brain cells after planning one event'. Dekho zara."
+    },
+    {
+      "role": "assistant",
+      "content": "Arre bhai, tum toh memes ke raja ho! I feel you! Client presentations are killing me. BTW, yeh shaadi kahaan thi? Food was awesome!"
+    },
+    {
+      "role": "user",
+      "content": "Woh ji ke beti ki shaadi thi. Glad you liked the food! Next meme: 'Me pretending to listen in meetings'. Itna kaam hai, sunne ka time hi nahi milta."
+    },
+    {
+      "role": "assistant",
+      "content": "Hahaha! So true! I'm forwarding that to my team lead! But seriously, let's plan a chai-samosa break this week. Need to de-stress before the next event season kicks in!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye! Diwali aa rahi hai, kya plan hai tera? Ghar ja rahi hai ya phir Delhi mein hi dhamaka karegi? I'm thinking of making some amazing rangoli this time, maybe even try a new mithai recipe. Bata, kya scene hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar! Ghar toh jaana hi hai, parents kab se bol rahe hain. But Delhi mein bhi toh jashan manana hai! Soch rahi hoon, pahle ghar jaake Diwali mana le, phir wapas aake friends ke saath ek chota sa party rakhte hain. What say? Mithai is a must!"
+    },
+    {
+      "role": "user",
+      "content": "Perfect plan! Ghar wali Diwali aur phir Dilli wali dhamakedar party. I'm in! Rangoli competition rakhenge kya? Aur mithai mein kya bana rahi hai tu? I'm thinking of trying something with chocolate this year, maybe chocolate barfi or something."
+    },
+    {
+      "role": "assistant",
+      "content": "Rangoli competition toh pakka! Aur chocolate barfi sounds amazing! Main shayad gulab jamun try karungi, maa ki recipe hai. Waise, crackers ka kya plan hai? Thoda bahut phodenge ya phir seedha fireworks show dekhne chale?"
+    },
+    {
+      "role": "user",
+      "content": "Crackers toh thoda bahut phodenge, pollution ka bhi sochna hai na. Fireworks show is a good idea! Dekhte hain kahaan acha show ho raha hai. Aur haan, Diwali cleaning shuru kar di? Mera toh abhi aadha bhi nahi hua."
+    },
+    {
+      "role": "assistant",
+      "content": "Cleaning toh chal rahi hai dheere dheere. Itna kaam hai! Chalo, Diwali ke baad milte hain party ke liye. Tab tak, happy cleaning and shopping! Aur haan, mujhe bhi bata dena agar koi mast fireworks show ka plan bana toh."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye, Holi aa rahi hai! Kya scene hai? Outfit kya plan kiya hai iss baar? Last year toh tera kurta phat gaya tha yaad hai? Is baar kuch solid plan kar, bhai!"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan bhai, yaad hai! Disaster tha woh toh. Iss baar soch raha hu white t-shirt aur jeans pehnu, old school. Ya phir koi funky printed shirt le lu? Kuch samajh nahi aa raha, yaar. Holi ke liye gifts ka bhi tension hai."
+    },
+    {
+      "role": "user",
+      "content": "White t-shirt is classic, safe option. But funky shirt se thoda Holi vibe toh aayega. Gifts mein kya de raha hai? Bhabhi ke liye toh rang aur mithai toh pakka hoga na? Aur doston ko kya plan hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, bhabhi ke liye toh rang aur mithai final hai. Doston ke liye soch raha hu personalized gulal ke packets banwau. Outfit ka hi tension hai yaar. Online kuch dekhta hu, shayad kuch mil jaaye."
+    },
+    {
+      "role": "user",
+      "content": "Online dekh le, ya phir Linking Road jaa. Wahaan Holi special outfits mil jaayenge. Aur haan, gifts mein thandai ka bottle bhi add kar de. Holi mein thandai toh banti hai, bhai!"
+    },
+    {
+      "role": "assistant",
+      "content": "Linking Road is a good idea! Thandai bhi pakka add kar dunga. Thanks for the suggestions, bhai! Ab outfit final karta hu aur gifts order karta hu. Happy Holi in advance!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye, interview ki tayari kaisi chal rahi hai? Tension ho raha hai kya? Bata na, kya scene hai? Last time toh tera experience kuch khaas nahi tha, is baar kya naya try kar raha hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar, tension toh hai hi! Last time I messed up the technical round. This time I'm focusing on data structures and algorithms. Also, I'm practicing my 'tell me about yourself' pitch. Hoping for the best, bhai!"
+    },
+    {
+      "role": "user",
+      "content": "Good, good. Technicals toh important hai hi. But don't forget the soft skills! Be confident, make eye contact, and smile! Aur thoda research kar company ke baare mein bhi. They like that stuff, you know?"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan bhai, woh bhi kar raha hoon. Company culture aur values dekhe hain. I'm also trying to find common connections on LinkedIn to get some insider info. Hoping that gives me an edge. Any other tips, guru?"
+    },
+    {
+      "role": "user",
+      "content": "Ek aur cheez, dress properly! First impression is the last impression. And be ready to ask them some smart questions at the end. Shows you're interested. All the best, bhai! Phod de interview!"
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks, bro! Your advice is golden. I'll keep all that in mind. Let's hope this interview goes well. After I get the job, chai-samosa teri taraf se, pakka! Wish me luck, dost!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye! Kya chal raha hai? Dekh toh, Instagram pe kya kya trends aa rahe hain. Kal raat se scroll karte karte aankhein dukh gayi. Yeh 'that girl' aesthetic toh pakka apna bas ka nahi hai!"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar! Same pinch! 'That girl' banne ke liye toh pura lifestyle change karna padega. Subah 5 baje utho, green juice piyo, yoga karo... humse na ho payega. Mujhe toh reels dekh ke hi tension ho jata hai."
+    },
+    {
+      "role": "user",
+      "content": "Exactly! Aur yeh 'clean girl' makeup bhi. Itna kam makeup mein bhi itne flawless kaise dikhte hain? Mujhe toh concealer lagane mein bhi aadha ghanta lag jata hai. Koi simple hack bata yaar!"
+    },
+    {
+      "role": "assistant",
+      "content": "Haa yaar! Woh toh hai. Actually, I saw a reel about it. They use like, one drop of foundation and blend it with a beauty blender. I'll send you the link. But honestly, filter is the real MVP, right?"
+    },
+    {
+      "role": "user",
+      "content": "Bilkul sahi! Filter toh apna best friend hai. Waise, did you see that new dance trend? 'Jhoome Jo Pathaan' pe? I'm thinking of making a reel with my brother. Kya kehti hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Kya baat hai! That would be awesome! But practice kar lena achhe se, warna bhai tera troll ho jayega. Send me the reel link when you post it, okay? I'll be your biggest fan and cheerleader!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Kya chal raha hai, yaar? Long time no see! Office mein sab theek toh hai na? You've been looking a bit off lately. Sab badhiya?"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, bhai, office toh routine hai. But tbh, thoda stressed feel kar raha hoon. Workload bahut zyada hai, aur personal life bhi messed up hai. Neend bhi theek se nahi aa rahi."
+    },
+    {
+      "role": "user",
+      "content": "Arey yaar, I understand. Stress toh sabko hota hai. But bhai, it's important to take care of yourself. Have you considered talking to someone? Maybe a therapist or counselor?"
+    },
+    {
+      "role": "assistant",
+      "content": "Therapist? Pata nahi yaar. It feels like a big step. Log kya sochenge? And honestly, I don't even know where to start looking for one. Is it even worth it?"
+    },
+    {
+      "role": "user",
+      "content": "Dude, log toh kuch bhi sochenge. It's your well-being that matters. And trust me, talking to someone can really help. I can help you find a good one. They are very supportive, and it is confidential."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, fine. I guess it's worth a shot. Thanks, bhai. I really appreciate it. Let's catch up over chai soon? Maybe we can discuss this further. I feel a bit better just talking about it."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Hello, yaar! PTM ka tension ho raha hai. Beta 10th mein hai, aur teachers se kya baat karein, samajh nahi aa raha. Syllabus toh cover ho gaya na? Kahin maths mein phir se low score na aa jaaye."
+    },
+    {
+      "role": "assistant",
+      "content": "Arre bhai, chill maar! Don't stress. Pehle toh teacher se beta ke strong points puchho. Phir dekho kahan improvement ki zaroorat hai. Maths mein problem hai toh extra classes ka option bhi dekh sakte ho. All the best!"
+    },
+    {
+      "role": "user",
+      "content": "Haan, woh toh hai. Lekin woh video games mein itna busy rehta hai, padhai pe dhyaan hi nahi deta. How to balance both? Teacher se yeh bhi discuss karna padega. Eyesight bhi check karwana hai, screen time bahut zyada hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Sahi baat hai. Tell the teacher about the gaming. Maybe they can suggest a strategy. Aur haan, eyesight is important. Blue light filter wala chashma pehnao. Thoda strict banna padega, bhai!"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thanks for the tips! I'll make a list of questions. Performance, gaming, eyesight… Anything else I should ask? I want to make sure I cover everything important. PTM is tomorrow morning."
+    },
+    {
+      "role": "assistant",
+      "content": "Definitely ask about his behaviour in class and interaction with other students. Also, any extracurricular activities he might be interested in. This gives a well-rounded picture. Don't worry, you'll do great! All the best for tomorrow's PTM!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Sunn! Guess what? I think I'm crushing hard on her from the CSE department. Uff, she's got that 'coder-chic' vibe going on, you know? Matlab, smart bhi hai aur cute bhi. Kya scene hai, bhai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre wah! She's cool, yaar. But be careful, heard she's super focused on her grades. Phir bhi, dil toh baccha hai ji! What's your plan of action? Chai pe bulayega ya coding competition challenge?"
+    },
+    {
+      "role": "user",
+      "content": "Coding competition challenge sounds too intense, boss! I was thinking of 'accidentally' bumping into her at the library. Maybe offer to help her with a tricky algorithm? Thoda hero-type entry, samajh raha hai na?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hero-type entry? Bollywood style! But library mein shanti hoti hai, bhai. Maybe try the canteen during break time? Offer her samosa and chai. Everyone loves free food. That's my pro-tip, take it or leave it."
+    },
+    {
+      "role": "user",
+      "content": "Samosa and chai, huh? Not a bad idea! Free ka toh bhagwan bhi leta hai. Okay, Operation Samosa is a go! Wish me luck, dost. If this works, I'm treating you to extra Maggi at the hostel mess tonight!"
+    },
+    {
+      "role": "assistant",
+      "content": "All the best, mere bhai! May the samosa be with you! And remember, confidence is key. Aur haan, don't forget to tell me all the juicy details later. Maggi is definitely on you, regardless of the outcome! Deal?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye! Kya chal raha hai? Suna hai ghar renovate karwa rahi ho? Bade log ho gaye tum toh! Kitna kharcha aa raha hai total, and what all are you planning to change?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar! Bade log kahaan? Bas thoda sa change karna hai. Kitchen puraana ho gaya tha. Kharcha toh bhai, pooch mat. Contractor ne toh aankhen dikha di. Bas dekho, 5-6 lakh toh pakka lag jayenge."
+    },
+    {
+      "role": "user",
+      "content": "Paanch-chhe lakh? OMG! Itna toh maine socha bhi nahi tha. What exactly are you changing in the kitchen? Modular karwa rahi ho kya? Warna itna kaise lagega? Koi idea lena ho toh bata, mera cousin interior designer hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, modular toh karwa rahi hoon. And flooring bhi change kar rahe hain. Plus, thoda electrical work bhi hai. Tumhare cousin se milwa de toh accha rahega. Maybe he can give a better estimate. Help ho jayegi."
+    },
+    {
+      "role": "user",
+      "content": "Done deal! I'll connect you both tomorrow itself. He is pretty good and gives a fair price. Plus, he understands our desi needs, you know? No fancy, impractical designs. Solid and functional, like us!"
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds perfect! Thanks a ton! Kal baat karte hain phir. And haan, ghar ka kaam ho jaaye toh, pakka chai pe bulati hoon. Then we can chill and gossip properly, okay?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Sunn! It's 2 AM, and my stomach is doing bhangra. Kuch toh mangana padega. My mind is stuck on some spicy noodles ya! Kya scene hai tere side mein?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre bhai, same pinch! I was just thinking about ordering something. Noodles toh mast option hai. I was leaning towards butter chicken, but noodles sound easier, no? Zomato ya Swiggy?"
+    },
+    {
+      "role": "user",
+      "content": "Noodles is the way to go, yaar. Less mess, maximum satisfaction. Zomato pe dekhte hain, maybe we can find a good deal. Butter chicken can wait for tomorrow, bhai. Aaj toh quick fix chahiye."
+    },
+    {
+      "role": "assistant",
+      "content": "Done deal! Zomato it is. Check for any late-night offers. Aur dekhna, extra spicy noodles order karna. Aaj toh dil aur pet dono ko khush karna hai. What say, partner in crime?"
+    },
+    {
+      "role": "user",
+      "content": "Extra spicy toh pakka! I am already drooling. Let me check if there's any vendor open nearby. Fingers crossed we get our noodle fix soon. Warna toh subah tak neend nahi aayegi bhai."
+    },
+    {
+      "role": "assistant",
+      "content": "Haha, true that! Neend toh gayi tel lene. Jaldi order kar, and send me the link. I'll add some spring rolls to the order, treat from my side for suggesting noodles. Perfect late-night combo!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Hey guys, so I was thinking, it's been ages since we all properly chilled! How about a road trip? I'm thinking maybe Goa? Or somewhere in the hills, like Shimla? What say?"
+    },
+    {
+      "role": "assistant",
+      "content": "Goa sounds amazing! But bhai, the traffic will be killer, especially now. Shimla is good too, but thand bahut hogi. Maybe somewhere in between? Like, Nashik? Vineyards and all?"
+    },
+    {
+      "role": "user",
+      "content": "Nashik? Hmm, not a bad idea! Wine tasting, good food, and it's not too far. But I'm still leaning towards Goa, yaar. Beach, shack, beer... perfect combo! Traffic ka tension mat lo, we'll manage."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if you're set on Goa, then Goa it is! But let's plan properly. Accommodation book karna padega in advance. And let's rent bikes there instead of taking our cars all the way. Kitne log honge total?"
+    },
+    {
+      "role": "user",
+      "content": "I think around 6-7 people. Let me check with everyone. And yes, bikes in Goa is a must! Freedom hai, boss! Any specific area you want to stay in? North or South Goa? I'm thinking North for the nightlife."
+    },
+    {
+      "role": "assistant",
+      "content": "North Goa sounds good for the vibe! Baga, Calangute area maybe? But we should book soon, peak season mein sab full ho jata hai. And please, is baar proper planning karenge, not like last time's disaster trip to Lonavala!"
+    }
+  ]
+]

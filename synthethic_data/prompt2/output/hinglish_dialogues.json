@@ -1,0 +1,392 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "Oye Sunita! Interview ka kya scene hai? Tension ho rahi hai kya? I know you're prepping hard, but chill maar yaar. Remember, confidence is key! Tell me, kaunsi company hai aur role kya hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan yaar, thodi si tension toh hai hi, Rohan. It's for a marketing manager position at Tata Consumer Products. I've been practicing the STAR method answers, but still feel like I'll fumble during the real thing. Any tips besides 'be confident'?"
+    },
+    {
+      "role": "user",
+      "content": "Dekh, STAR method is good, but also be ready to talk about your failures and how you learned from them. Authenticity matters. And research the company culture well. They love to see you've done your homework. Batao, kya kiya research?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, failure stories noted! I've read up on their recent campaigns and their focus on sustainability. I'm planning to mention how my values align with theirs. Also, I'm thinking of wearing a simple salwar kameez. Too cliche?"
+    },
+    {
+      "role": "user",
+      "content": "Salwar kameez is perfect! Shows you're grounded and respectful. Focus on making eye contact and smiling genuinely. And remember to ask insightful questions at the end. Shows you're engaged. All the best, meri jaan! You'll nail it!"
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks, Rohan! Your pep talk really helped. I feel a bit more confident now. I'll definitely keep your tips in mind. Chal, wish me luck! And let's celebrate with golgappe after I ace this interview. My treat!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Arre yaar, Sunita! Kya haal hai? Long time no see! How's everything going with little Rohan? Last I heard, he was giving you a tough time with his online classes."
+    },
+    {
+      "role": "assistant",
+      "content": "Hey Priya! Sab theek hai, but parenting is seriously a full-time job, no? Rohan is now obsessed with video games. I'm trying to limit his screen time, but he throws such a tantrum! Kya karu batao?"
+    },
+    {
+      "role": "user",
+      "content": "I totally get it! My daughter, Diya, is the same. I've started involving her in household chores like helping me with cooking or watering plants. It helps to distract her from the phone and teaches her responsibility too."
+    },
+    {
+      "role": "assistant",
+      "content": "That's a great idea! I'll try that. Rohan loves helping his dad in the garden. Maybe I can get him to help me bake a cake or something. Anything to keep him away from those screens! Thanks for the tip!"
+    },
+    {
+      "role": "user",
+      "content": "No problem, Sunita! We're all in the same boat, na? Parenting is tough, but it's also the most rewarding thing ever. Kabhi kabhi toh aisa lagta hai, I'm learning more from her than she is from me!"
+    },
+    {
+      "role": "assistant",
+      "content": "So true, Priya! It’s a constant learning process. Chalo, next time we meet, we'll exchange more parenting hacks over chai. Abhi toh I need to go figure out how to get Rohan to finish his homework without a fight! Bye!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye, Sunita! Kya chal raha hai? Aaj kal toh lagta hai tere grah thode ulte chal rahe hain. Everything okay na? You seem a bit off lately. Zodiac signs mein believe karti hai tu?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar, Priya! Tune sahi pakda. Actually, haan, I do believe a little bit. Meri maa toh kehti hai ki Shani ki dasha chal rahi hai. But seriously, work pressure is killing me. Zodiac ka kya scene hai tera?"
+    },
+    {
+      "role": "user",
+      "content": "Mera? I'm a Cancerian, total emotional fool! But I read somewhere that Cancerians are supposed to be lucky in business this year. Socha tha ek startup try karoon. What do you think? Zodiac stuff actually matter karta hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Dekh, luck toh apni mehnat se banta hai, but a little bit of cosmic help never hurts! And Cancerians are creative, no? Startup idea achha hai. But Shani dev ko bhi thoda prasad chadha dena. Just in case!"
+    },
+    {
+      "role": "user",
+      "content": "Haha, good idea! Prasad toh banta hai. Waise, what's your rashi again? Aur uske hisab se kya karna chahiye tujhe? Maybe we can find some remedies together. Online pandit booking karein?"
+    },
+    {
+      "role": "assistant",
+      "content": "Main Virgo hoon, the perfectionist! Apparently, we're supposed to focus on self-care and avoid overthinking. Online pandit? Maybe later! First, chai peete hain. Stress kam karne ka best ilaj!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Hey Arjun! Kya plan hai weekend ka? I was thinking maybe we could finally catch a movie? Been ages since I've been to the cinema hall, you know. Aur batao, fitness classes are killing me!"
+    },
+    {
+      "role": "assistant",
+      "content": "Sana! That sounds great! Movie toh pakka. But what kind? Action? Romance? Bollywood masala? I'm hearing good things about 'Fighter', the Hrithik Roshan one. But you know I'm up for anything as long as I'm with you."
+    },
+    {
+      "role": "user",
+      "content": "'Fighter' is good, but I was hoping for something a little lighter. Maybe a rom-com? Or even a thriller? I saw the trailer for 'Merry Christmas' with Katrina Kaif and Vijay Sethupathi. It looks intriguing, right?"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, 'Merry Christmas' is a good option too! Vijay Sethupathi is awesome. Okay, deal. 'Merry Christmas' it is. I'll book the tickets. Which cinema hall is convenient for you? Let me know ASAP, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Perfect! Let's go to the one in Phoenix Palladium. It's closer to my place. And after the movie, we can grab some dinner at that new Italian place nearby. I've heard their pasta is to die for. What say?"
+    },
+    {
+      "role": "assistant",
+      "content": "Done deal! Movie and pasta. Sounds like the perfect date, Sana. I'll book the tickets now. See you on Saturday then! I'm already excited, yaar! And I will pick you up around 7 PM. Cool?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Hey yaar, Siddharth! Kya chal raha hai? Sunna hai tu toh Bollywood ka encyclopedia ban gaya hai. Koi latest movie recommendations hai kya? Weekend aa raha hai, family ke saath plan banana hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Arre bhai, kya bataun! Data science ke saath-saath, movies bhi track karta hoon. Recently 'Fighter' dekhi. VFX kamaal ka hai, story thodi predictable. But overall, paisa vasool. Kids ko bhi pasand aayegi."
+    },
+    {
+      "role": "user",
+      "content": "'Fighter', hmm... Thik hai. Action toh chalega. But kuch aisa bata jo thoda hatke ho, family drama ya comedy type. Bachchon ko bhi maza aana chahiye, aur hum bhi bore na ho."
+    },
+    {
+      "role": "assistant",
+      "content": "Then try '12th Fail'. Based on a true story, UPSC aspirant ki struggle hai. Inspirational bhi hai, aur real bhi. No big stars, but acting solid hai. Family ke saath dekhne mein accha lagega, I promise."
+    },
+    {
+      "role": "user",
+      "content": "Okay, '12th Fail' sounds interesting. UPSC ki kahani? Chalo, try karte hain. Waise, 'Dunki' kaisi lagi tujhe? Shah Rukh Khan hai, toh socha poochh loon. Worth watching in theatre or OTT pe wait karein?"
+    },
+    {
+      "role": "assistant",
+      "content": "Dunki is a bit slow, honestly. Social message accha hai, but pace thoda dheela hai. Shah Rukh Khan apni jagah sahi hai, but overall, OTT pe dekhna better rahega. Theatre mein 'Fighter' is a better option for the visual experience."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Sunita! Kitne din baad mili. School days yaad hai? Woh canteen ke samose aur principal sir ki daant... kya din the yaar! Ab toh bas work from home and endless meetings. Life kitni change ho gayi na?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre Priya! Sahi mein yaar! Woh samose toh jaan the. Aur yaad hai, humesha late aate the assembly mein? Miss Sharma ki woh 'punishment line' mein khade rehne ki saza. Ab toh deadlines hi punishments hain, aur koi line nahi hai."
+    },
+    {
+      "role": "user",
+      "content": "Haan yaar! Aur woh science project? Kitni mehnat karte the hum log. Phir bhi, Sharma sir ne marks kam diye. Ab toh presentations mein kitni bhi mehnat karo, client ko pasand aana mushkil hai. Same to same feeling!"
+    },
+    {
+      "role": "assistant",
+      "content": "Exactly! Aur yaad hai woh annual day functions? Hum log stage ke peeche kitna nervous hote the. Ab bhi public speaking se darr lagta hai, but ab toh face karna hi padta hai. School life was so much simpler, right?"
+    },
+    {
+      "role": "user",
+      "content": "Totally! Aur apne best friends ka group, woh toh family jaise the. Ab colleagues toh hain, lekin woh school wale dosti ki baat hi alag thi. Chalo, plan karte hain sabko milne ka. What say? School reunion type?"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect idea, Priya! School reunion sounds amazing. Let's make a WhatsApp group and start planning. Woh sab purane dost, ek saath... It would be like going back in time. I am so excited! Let's do it."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Sun! Kya chal raha hai? I was just thinking, life is getting too routine. Need to do something to improve myself, you know? Like, become a better version of myself. Koi idea hai tere paas?"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan bhai, I feel you! Same pinch! Life is like that local train, same stations every day. I was reading about this new app for meditation, might help with the stress and bring some clarity. Or maybe finally learn that guitar we bought ages ago?"
+    },
+    {
+      "role": "user",
+      "content": "Meditation sounds good, but guitar… I'm hopeless! Maybe something more practical? Like finally finishing that online course on data analytics I started last year. That could actually help with the job, right? What do you think?"
+    },
+    {
+      "role": "assistant",
+      "content": "Data analytics? Solid plan, dost! That's a skill that's always in demand. Plus, imagine the salary hike! I'm thinking of finally joining that gym near my office. Need to shed some of this Diwali weight before Holi comes around. "
+    },
+    {
+      "role": "user",
+      "content": "Gym sounds brutal, but good for you! Okay, data analytics it is. We should keep each other accountable. Like, check in once a week to see how far we've gotten. Warna, I know myself, I'll procrastinate till next Diwali. Deal?"
+    },
+    {
+      "role": "assistant",
+      "content": "Deal pakka! Accountability partners for the win! Gym and data analytics, here we come! Imagine, next year we'll be fitter, smarter, and richer! Chal, chai peete hain to celebrate our self-improvement pact. What say?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Sunaina! Kya chal raha hai? I was thinking about applying for masters abroad. Tu kya soch rahi hai? Papa toh bol rahe hain, 'Yahin India mein padhai karo, bahar kya rakha hai!'"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar, Rohan! Same pinch! My parents are also singing the same tune. They’re all about 'ghar ka khana' and 'safe environment'. But I really want to experience life outside India. Which country are you eyeing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm leaning towards Canada, maybe US. Good universities, you know? Plus, there are so many Indians there, it won't feel too alien. Funding ka scene thoda tension wala hai, scholarship dhundna padega."
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, funding is a big headache. I'm thinking of applying for scholarships too. Maybe we can study together for the GRE or TOEFL? Misery loves company, right? And imagine the samosa breaks we can have!"
+    },
+    {
+      "role": "user",
+      "content": "Samosa breaks toh pakka! Let's meet this weekend? We can research universities and scholarships together. And maybe convince our parents that it's a good idea. United we stand, divided we fall, hai na?"
+    },
+    {
+      "role": "assistant",
+      "content": "Done! This weekend pakka. We'll make a killer presentation for our parents with all the pros and cons. And maybe bribe them with jalebi. Let's do this, Rohan! Study abroad, here we come!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye, kya scene hai? Productivity toh zero dikh rahi hai teri. Kal se deadline hai, aur tu yahan chill maar raha hai? Bata kya kar raha hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre bhai, chill nahi maar raha. Trying to figure out how to actually *be* productive. Itna kaam hai, samajh nahi aa raha kahan se start karu. Overwhelmed feel ho raha hai, yaar."
+    },
+    {
+      "role": "user",
+      "content": "Overwhelmed? Classic. Sun, ek kaam kar. Break it down. Big tasks ko chote chote steps mein divide kar. Phir ek ek karke tackle kar. Aur Pomodoro technique try kar, mast hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Pomodoro? Woh kya hai? Tomato timer wala? Suna toh hai but kabhi use nahi kiya. Actually, distraction se kaise bachu? Phone toh addiction ban gaya hai, bhai."
+    },
+    {
+      "role": "user",
+      "content": "Haan, wohi tomato timer. 25 mins focus, 5 mins break. Phone silent kar de, notifications off. Aur sun, khud ko reward bhi de after each task. Chai-sutta break type. Incentive important hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Chai-sutta is a great incentive, no doubt! Okay, fine. Pomodoro and no phone. Let's see if this works. Thanks, yaar! You're a lifesaver. Ab mai lagta hu kaam pe."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Sunita, kya plan hai next date ka? I was thinking movie? But konsi? Itni saari movies lagi hui hain. Koi action dekhein ya phir kuch lighthearted, romantic comedy type?"
+    },
+    {
+      "role": "assistant",
+      "content": "Amit, romantic comedy is always a safe bet, you know? Action mein toh phir wohi 'dhishoom dhishoom' hota rahega. I'm in the mood for something funny, something that makes us both laugh. Koi new release hai aisi?"
+    },
+    {
+      "role": "user",
+      "content": "Haan, ek toh 'Crazy Rich Indians' lagi hai, woh dekhi hai kisi ne? Ya phir 'Dil Dhadakne Do' phir se dekh lein? That movie still makes me laugh so much. Kuch aur suggestions hai tumhare paas?"
+    },
+    {
+      "role": "assistant",
+      "content": "'Crazy Rich Indians' thodi cliche nahi hai? 'Dil Dhadakne Do' is a classic, true. But let's try something new, na? Maybe 'Zara Hatke Zara Bachke'? I heard it's quite funny and relatable, especially for us middle-class folks."
+    },
+    {
+      "role": "user",
+      "content": "Hmm, 'Zara Hatke Zara Bachke' sounds interesting. Vicky Kaushal hai toh pakka kuch toh hoga. Chal, I'll check the reviews. Waise bhi, movie ke baad kahaan jaayenge? Chai-samosa at Carter Road ya phir kuch fancy?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chai-samosa is always a good idea! Let's do that. And 'Zara Hatke Zara Bachke' final? Book kar lein tickets? I'm already excited. This date is going to be awesome, I can feel it! Jaldi book karo!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Accha suno, I managed to book us tickets for that sunset boat ride this weekend! Remember how we were talking about it? I got the ones with the live music. Hope you're free on Saturday evening? Jaldi batao!"
+    },
+    {
+      "role": "assistant",
+      "content": "Arre wah Sneha! That's fantastic news! Sunset boat ride with live music sounds absolutely perfect. Saturday evening is clear on my calendar. You are the best! Where are we meeting beforehand? Should I pick you up, ya tum seedha dock pe aaogi?"
+    },
+    {
+      "role": "user",
+      "content": "Let's meet at Marine Drive at 6 PM? We can grab a quick chai and some bhel before heading to the dock. The boat leaves at 6:45. I'll be wearing that blue kurta you like. Excited! This is going to be so romantic, hai na?"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect plan! Marine Drive chai and bhel sounds amazing. Blue kurta, noted! I'll be there on time. This is going to be a memorable date, Sneha. Thanks for planning everything. So excited to spend the evening with you!"
+    },
+    {
+      "role": "user",
+      "content": "No problem at all! I just wanted to do something special for us. I even packed some homemade chocolate chip cookies for us to enjoy on the boat. Don't tell anyone! It's a surprise. See you Saturday! Dhyaan rakhna apna."
+    },
+    {
+      "role": "assistant",
+      "content": "Chocolate chip cookies! You're spoiling me! Saturday can't come soon enough. I promise to be extra careful. Will see you then! This sunset boat ride is going to be the best date ever, thanks to you. Good night, Sneha!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Sunidhi, kya scene hai? You look like you've seen a ghost. Batao toh, kya hua? Did Rohan finally reveal his true colours? I knew he was too good to be true. Chai piyegi? Adrak wali banati hu."
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar, Rhea, you won't believe it. He broke up with me! Said 'it's not working out'. As if *I* didn't know that already! But still, sunke bura toh lagta hai na? Like, all those promises, all those plans... sab jhoot tha kya?"
+    },
+    {
+      "role": "user",
+      "content": "Dekh, Sunidhi, boys are like auto-rickshaws. Ek jaata hai toh dusra line mein khada hota hai. Don't waste your tears on someone who couldn't see your worth. He's probably regretting it already. Now, tell me the whole story, masala lagake."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so basically, he said he needs 'space'. Space? Hum toh ek hi PG room mein rehte the! Where else could he find more space? I think he just wanted to flirt with that new intern, Priya. That's my gut feeling, you know?"
+    },
+    {
+      "role": "user",
+      "content": "Aha! I knew it! Priya toh chalu hai. Listen, Sunidhi, forget Rohan. We're going out tonight. Golgappe, movie, maybe even a little dancing. We'll show him what he's missing. And tomorrow, we're going shopping! New look, new you!"
+    },
+    {
+      "role": "assistant",
+      "content": "You're right, Rhea. Enough of this rona-dhona. New clothes, new me! Golgappe sound amazing. And maybe a little bit of retail therapy is exactly what I need. Thanks, yaar. You're the best friend a girl could ask for. Let's go conquer the world!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Priyanka, Christmas night ke liye kya plan hai? Suna hai tu rangoli aur lighting ka dekh rahi hai iss baar? Ghar mein sab excited hain. Batao, kya special hone wala hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, uncle! Is baar rangoli mein Christmas tree design try kar rahi hoon, with diya lights around it. Mom ne bola traditional touch bhi hona chahiye. Lighting mein fairy lights and lanterns mix karungi. Hope sabko pasand aaye!"
+    },
+    {
+      "role": "user",
+      "content": "Wah, Priyanka! Christmas tree rangoli with diyas sounds amazing! Tum toh chef bhi ho aur artist bhi. Fairy lights aur lanterns ka combination toh kamaal hi karega. Photos zaroor nikalna, Instagram pe daalenge."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, uncle! Actually, I saw a Christmas tree rangoli design online and thought it would look great. Will definitely take lots of pictures! Aur aap bhi ready rehna, photos kheechne mein help karna padega."
+    },
+    {
+      "role": "user",
+      "content": "Bilkul, Priyanka! Main toh hamesha ready hoon photo kheechne ke liye. Bas tumhara rangoli aur lighting superb hona chahiye. Aur haan, Christmas cake bhi toh tum hi banaogi na? Woh bhi special hona chahiye."
+    },
+    {
+      "role": "assistant",
+      "content": "Ji uncle, cake toh main hi banaungi! Chocolate truffle with a hint of cinnamon. Hope it's a hit! Rangoli aur lighting ka tension mat lo, sab perfect hoga. Bas aap log enjoy karna!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Priya: Suno yaar, I was thinking about our Goa trip. Budget toh banaya nahi hai abhi tak. Flights are getting expensive, especially around December. We need to finalize dates soon. Any preferences from your side, Rahul?"
+    },
+    {
+      "role": "assistant",
+      "content": "Rahul: Haan Priya, sahi bol rahi ho. December is peak season. Let's aim for early December then? I'm flexible with the dates, but budget is key. What are you thinking in terms of flights and accommodation? Beach facing hotel is a must though!"
+    },
+    {
+      "role": "user",
+      "content": "Priya: Beach facing will cost us a bit more, Rahul. I was looking at around ₹8000-₹10000 for flights per person. And for a decent beach facing hotel, expect around ₹4000-₹5000 per night. Kitna din ka plan hai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Rahul: Let's say 4 days, 3 nights? Hotel ka budget thoda stretch kar sakte hain, but flights should be within that range. Also, what about food and activities? We should factor that in too, right? Scuba diving karna hai mujhe!"
+    },
+    {
+      "role": "user",
+      "content": "Priya: Exactly! Food and activities, I'm estimating around ₹3000 per day for both of us. Scuba diving will be extra, around ₹2000 per person. So, total approximately ₹35000-₹40000 for both of us. Kya kehte ho?"
+    },
+    {
+      "role": "assistant",
+      "content": "Rahul: Okay, ₹35000-₹40000 seems doable. Let's split it 50-50? I'll book the flights if you can handle the hotel booking. And we can both keep aside some extra cash for shopping and emergencies. Goa, here we come!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Oye Rohan, kya scene hai? Itna busy dikh raha hai aaj kal. Productivity guru ban gaya hai kya? Last time mila toh bol raha tha Netflix binge kar raha hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Arre bhai, ab kya karein. Life mein thoda change toh laana padega na. Netflix toh weekend ke liye chhod diya. Actually, I found this Pomodoro technique. Kaafi helpful hai, try kar."
+    },
+    {
+      "role": "user",
+      "content": "Pomodoro? Yeh kya naya chakkar hai? Sounds like some Italian dish. Batao batao, how does it work? Mujhe bhi apna kaam thoda better manage karna hai yaar."
+    },
+    {
+      "role": "assistant",
+      "content": "Simple hai yaar. 25 minutes focus, 5 minutes break. Repeat four times, then take a longer break. Focus badhane ke liye mast hai. Distractions kam hote hain. Try karke dekh, fayda hoga."
+    },
+    {
+      "role": "user",
+      "content": "Hmm, interesting. Sounds doable. Aaj se try karta hoon. Waise, koi specific app use karta hai kya ya aise hi time dekh ke karna hai? Bata de, toh seedha download kar lunga."
+    },
+    {
+      "role": "assistant",
+      "content": "Haan, there are tons of apps! Forest is a good one, or even a simple timer app works. The key is consistency, bro. Ek dum se productivity badh jayegi. All the best!"
+    }
+  ]
+]
